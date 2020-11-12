@@ -2226,7 +2226,7 @@ input, select, textarea {
 	}
 
 		.image:before {
-			background: url("images/overlay.png");
+			/* background: url("images/overlay.png"); */
 			content: '';
 			display: block;
 			height: 100%;
@@ -2511,9 +2511,9 @@ input, select, textarea {
 			border-right: 0;
 		}
 
-			table tbody tr:nth-child(2n + 1) {
-				/* background-color: rgba(144, 144, 144, 0.075); */
-			}
+			/* table tbody tr:nth-child(2n + 1) {
+				background-color: rgba(144, 144, 144, 0.075);
+			} */
 
 		table td {
 			padding: 0.75em 0.75em;
@@ -2764,8 +2764,8 @@ input, select, textarea {
 			-webkit-transition: background-color 0.2s ease-in-out;
 			-ms-transition: background-color 0.2s ease-in-out;
 			transition: background-color 0.2s ease-in-out;
-			background-color: rgba(144, 144, 144, 0.075);
-			background-image: url("images/arrow.svg");
+			/* background-color: rgba(144, 144, 144, 0.075); */
+			/* background-image: url("images/arrow.svg"); */
 			background-position: center center;
 			background-repeat: no-repeat;
 			border-radius: 100%;
@@ -2783,9 +2783,9 @@ input, select, textarea {
 			width: 4em;
 		}
 
-			.main .goto-next:hover {
-				/* background-color: rgba(144, 144, 144, 0.15); */
-			}
+			/* .main .goto-next:hover {
+				background-color: rgba(144, 144, 144, 0.15);
+			} */
 
 /* Header */
 
